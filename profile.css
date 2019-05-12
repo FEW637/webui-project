@@ -15,7 +15,7 @@
   }
   .card{
     cursor: pointer;
-    width: 600px;
+    width: 500px;
     height: 500px;
     
     
@@ -35,7 +35,7 @@
     transform: perspective(600px) rotateY(0deg);
   }
   .back{
-    background: #f1f1f1;
+    background: #bbbec0;
     transform: perspective(600px) rotateY(180deg);
   }
   .back-content{
@@ -59,7 +59,7 @@
   }
   .sm a:hover{
     background: #2c3e50;
-    color: white;
+    color: rgb(188, 197, 207);
   }
   .card:hover > .front{
     transform: perspective(600px) rotateY(-180deg);

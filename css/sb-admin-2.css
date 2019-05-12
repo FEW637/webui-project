@@ -6988,7 +6988,7 @@ button.bg-dark:focus {
 }
 
 .bg-white {
-  background-color: #168b60!important;
+  background-color: #dfee5c!important;
 }
 
 .bg-transparent {
@@ -7235,6 +7235,8 @@ button.bg-dark:focus {
   }
   .d-lg-inline {
     display: inline !important;
+    font-size: 18px;
+    
   }
   .d-lg-inline-block {
     display: inline-block !important;
